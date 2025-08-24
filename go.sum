@@ -1,0 +1,8 @@
+github.com/coze-dev/coze-go v0.0.0-20250815025445-7a23df30f13a h1:VKhKggM+ubK0z6NJEsqSgb+w0I1OIpWwiG7ZDNYVcas=
+github.com/coze-dev/coze-go v0.0.0-20250815025445-7a23df30f13a/go.mod h1:wdT5CFt/sFsWz9hna2Z7DWzUra9spx0SoX1PUZyoSB0=
+github.com/golang-jwt/jwt/v5 v5.2.2 h1:Rl4B7itRWVtYIHFrSNd7vhTiz9UpLdi6gZhZ3wEeDy8=
+github.com/golang-jwt/jwt/v5 v5.2.2/go.mod h1:pqrtFR0X4osieyHYxtmOUWsAWrfe1Q5UVIyoH402zdk=
+github.com/gorilla/websocket v1.5.3 h1:saDtZ6Pbx/0u+bgYQ3q96pZgCzfhKXGPqt7kZ72aNNg=
+github.com/gorilla/websocket v1.5.3/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
+github.com/soryetong/go-easy-llm v0.0.4-0.20250401151645-aac3eafa043c h1:AMDA1QmjRA1cmefk3ufWqWSv6jcBMRQcfAZUXFlIeQc=
+github.com/soryetong/go-easy-llm v0.0.4-0.20250401151645-aac3eafa043c/go.mod h1:KnCTCbIU+02vRUl/UYCfKCeKim/1c9N1lwvcCzXy9qU=
