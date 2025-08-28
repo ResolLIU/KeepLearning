@@ -15,7 +15,7 @@ func TestCreateConversation(t *testing.T) {
 	}
 }
 func TestCreateConversationAndDeleteIt(t *testing.T) {
-	token, botID := "cztei_qNPnAxqht64ZOsoxxSuedlQkQwPsg9giBdhRILktysaaUqdgMhVlvva5tmh9VRRoG", "7541816661469888562"
+	token, botID := "cztei_l26GTiLKaiw8VCpZNF15gwW9NEUVPoywHkpcKuHhQhlEFOojT5X3HheUijeHsTMcz", "7541816661469888562"
 	cov := CreateConversation(token, botID)
 	if cov.ID == "" {
 		t.Errorf("fail to create")

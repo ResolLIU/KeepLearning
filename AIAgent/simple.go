@@ -10,7 +10,7 @@ import (
 )
 
 func SingleChat() {
-	token := "cztei_lfwNhm5iwvBBB7kMmTsAYbdfuMQMonCCsBQ1XlMYPHIm41BUG11CnUIt9zLLU4zyx"
+	token := "cztei_l26GTiLKaiw8VCpZNF15gwW9NEUVPoywHkpcKuHhQhlEFOojT5X3HheUijeHsTMcz"
 	botID := "7541825499077885979"
 	userID := "llq"
 	authCli := coze.NewTokenAuth(token)
